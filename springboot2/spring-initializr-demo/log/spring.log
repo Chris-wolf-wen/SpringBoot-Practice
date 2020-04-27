@@ -1,0 +1,64 @@
+2020-04-25 21:31:59.815  INFO 6336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-04-25 21:31:59.842  INFO 6336 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-25 21:31:59.842  INFO 6336 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-25 21:31:59.931  INFO 6336 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-25 21:31:59.932  INFO 6336 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1280 ms
+2020-04-25 21:32:00.179  INFO 6336 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-25 21:32:00.356  INFO 6336 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-25 21:33:22.978  INFO 5284 --- [main] c.y.l.SpringInitializrDemoApplication    : Starting SpringInitializrDemoApplication on DESKTOP-O3L7LOA with PID 5284 (G:\javaproject\spring-initializr-demo\target\classes started by lgh in G:\javaproject\spring-initializr-demo)
+2020-04-25 21:33:22.994  INFO 5284 --- [main] c.y.l.SpringInitializrDemoApplication    : No active profile set, falling back to default profiles: default
+2020-04-25 21:33:25.004  INFO 5284 --- [main] c.y.l.SpringInitializrDemoApplication    : Started SpringInitializrDemoApplication in 2.636 seconds (JVM running for 3.608)
+2020-04-25 21:37:40.935  INFO 14428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-04-25 21:37:40.962  INFO 14428 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-25 21:37:40.962  INFO 14428 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-25 21:37:41.049  INFO 14428 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-25 21:37:41.049  INFO 14428 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1464 ms
+2020-04-25 21:37:41.284  INFO 14428 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-25 21:37:41.466  INFO 14428 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-25 21:38:41.069  INFO 12340 --- [main] c.y.l.SpringInitializrDemoApplication    : Starting SpringInitializrDemoApplication on DESKTOP-O3L7LOA with PID 12340 (G:\javaproject\spring-initializr-demo\target\classes started by lgh in G:\javaproject\spring-initializr-demo)
+2020-04-25 21:38:41.073  INFO 12340 --- [main] c.y.l.SpringInitializrDemoApplication    : No active profile set, falling back to default profiles: default
+2020-04-25 21:38:42.644  INFO 12340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-04-25 21:38:42.679  INFO 12340 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-25 21:38:42.680  INFO 12340 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-25 21:38:42.787  INFO 12340 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-25 21:38:42.787  INFO 12340 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1609 ms
+2020-04-25 21:38:43.068  INFO 12340 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-25 21:38:43.263  INFO 12340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-25 21:38:43.268  INFO 12340 --- [main] c.y.l.SpringInitializrDemoApplication    : Started SpringInitializrDemoApplication in 2.759 seconds (JVM running for 3.744)
+2020-04-25 21:39:21.977  INFO 12452 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-04-25 21:39:22.012  INFO 12452 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-25 21:39:22.013  INFO 12452 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-25 21:39:22.125  INFO 12452 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-25 21:39:22.125  INFO 12452 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1780 ms
+2020-04-25 21:39:22.471  INFO 12452 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-25 21:39:22.700  INFO 12452 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-25 21:40:10.918  INFO 6508 --- [main] c.y.l.SpringInitializrDemoApplication    : Starting SpringInitializrDemoApplication on DESKTOP-O3L7LOA with PID 6508 (G:\javaproject\spring-initializr-demo\target\classes started by lgh in G:\javaproject\spring-initializr-demo)
+2020-04-25 21:40:10.923  INFO 6508 --- [main] c.y.l.SpringInitializrDemoApplication    : No active profile set, falling back to default profiles: default
+2020-04-25 21:40:12.400  INFO 6508 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-04-25 21:40:12.423  INFO 6508 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-25 21:40:12.423  INFO 6508 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-25 21:40:12.509  INFO 6508 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-25 21:40:12.510  INFO 6508 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1433 ms
+2020-04-25 21:40:12.748  INFO 6508 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-25 21:40:12.927  INFO 6508 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-25 21:40:12.931  INFO 6508 --- [main] c.y.l.SpringInitializrDemoApplication    : Started SpringInitializrDemoApplication in 2.575 seconds (JVM running for 3.488)
+2020-04-25 21:40:38.289  INFO 768 --- [main] c.y.l.SpringInitializrDemoApplication    : Starting SpringInitializrDemoApplication on DESKTOP-O3L7LOA with PID 768 (G:\javaproject\spring-initializr-demo\target\classes started by lgh in G:\javaproject\spring-initializr-demo)
+2020-04-25 21:40:38.293  INFO 768 --- [main] c.y.l.SpringInitializrDemoApplication    : No active profile set, falling back to default profiles: default
+2020-04-25 21:40:39.787  INFO 768 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-04-25 21:40:39.815  INFO 768 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-25 21:40:39.815  INFO 768 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-25 21:40:39.901  INFO 768 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-25 21:40:39.902  INFO 768 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1464 ms
+2020-04-25 21:40:40.132  INFO 768 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-25 21:40:40.338  INFO 768 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-25 21:40:40.345  INFO 768 --- [main] c.y.l.SpringInitializrDemoApplication    : Started SpringInitializrDemoApplication in 2.582 seconds (JVM running for 3.629)
+2020-04-25 21:40:57.614  INFO 200 --- [main] c.y.l.SpringInitializrDemoApplication    : Starting SpringInitializrDemoApplication on DESKTOP-O3L7LOA with PID 200 (G:\javaproject\spring-initializr-demo\target\classes started by lgh in G:\javaproject\spring-initializr-demo)
+2020-04-25 21:40:57.618  INFO 200 --- [main] c.y.l.SpringInitializrDemoApplication    : No active profile set, falling back to default profiles: default
+2020-04-25 21:40:59.064  INFO 200 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-04-25 21:40:59.088  INFO 200 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-04-25 21:40:59.088  INFO 200 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-04-25 21:40:59.169  INFO 200 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-04-25 21:40:59.169  INFO 200 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1402 ms
+2020-04-25 21:40:59.439  INFO 200 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-25 21:40:59.630  INFO 200 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-04-25 21:40:59.633  INFO 200 --- [main] c.y.l.SpringInitializrDemoApplication    : Started SpringInitializrDemoApplication in 2.542 seconds (JVM running for 3.479)

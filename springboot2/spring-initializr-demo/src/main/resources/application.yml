@@ -1,0 +1,13 @@
+logging:
+  # 配置输出额日志文件名,可以带路径
+  #  file: out.log
+  # 配置日志存放路径,日志文件名为：spring.log
+  path: ./log
+  file:
+    # 设置日志文件大小
+    max-size: 10MB
+#  level:
+#     # root日志以WARN级别输出
+#     root: warn
+#     # 此包下所有class以DEBUG级别输出
+#     com.yingxue.lesson: warn
